@@ -1,6 +1,6 @@
 //
 /*
-This code is for measuring RPM, Angle of a motor shaft. 
+This code is for measuring RPM, and Angle of a motor shaft. 
 NOTE: This Source is for reading values that has a D-Shaft with axially magnetised configuartion,
 with AS5600 placed in a radial offset. In my configuration, the bot is placed around 2-3mm away from the nearest rotating magnet attached to shaft. 
 */
